@@ -92,6 +92,8 @@ taken:
     add  zero, zero, zero  
     add  zero, zero, zero  
     add  zero, zero, zero  
+    add zero, zero,zero
+    add zero, zero, zero
 
 # ----------------------------------------------------------------------------------------
 # TODO: Add an example with taken branch to a label which is immediately following the branch
